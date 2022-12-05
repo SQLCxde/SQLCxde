@@ -1,10 +1,8 @@
 <h1 align="center">Hi 👋, I'm Leo</h1>
 <h3 align="center">A young java developer from germany</h3>
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently learning **JavaFX**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
